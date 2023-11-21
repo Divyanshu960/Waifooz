@@ -1,0 +1,2 @@
+# Waifooz
+Your Waifu WebApp
